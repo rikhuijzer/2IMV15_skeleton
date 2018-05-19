@@ -11,7 +11,8 @@ Simulation in computer graphics. This code should be reasonably close to the C++
 1. Make sure Anaconda is installed
 2. In PyCharm create a new project using a new Anaconda environment
 3. Install packages listed above in the new Anaconda environment 
-4. The code should now be able to run
+4. Copy Python files and gitignore to the new project
+5. The project should now be able to run
 
 ## Comments C++ conversion
 * In C++ Vector is more integrated. In Python make sure to use np.array explicitly.
