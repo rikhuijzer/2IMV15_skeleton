@@ -1,19 +1,6 @@
 # 2IMV15 
 Simulation in computer graphics. This code should be reasonably close to the C++ skeleton provided by the lecturer. If in doubt please check the C++ skeleton.
 
-## Used packages (also included in requirements.txt)
-* pyopengl 3.1.1a1
-* freeglut 3.0.0
-* numpy 1.13.3
-* opencv 3.3.1 (used only by Capture.py)
-
-## Possible installation method (Windows, Anaconda and PyCharm)
-1. Make sure Anaconda is installed
-2. In PyCharm create a new project using a new Anaconda environment
-3. Install packages listed above in the new Anaconda environment 
-4. Copy Python files and gitignore to the new project
-5. The project should now be able to run
-
 ## Comments C++ conversion
 * In C++ Vector is more integrated. In Python make sure to use np.array explicitly.
 * You can define multiple classes in one file. So, put extensions on short classes
