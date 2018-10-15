@@ -1,0 +1,4 @@
+pyopengl==3.1.1a1
+freeglut==3.0.0
+numpy==1.13.3
+opencv==3.3.1
