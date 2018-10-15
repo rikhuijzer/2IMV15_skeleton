@@ -1,7 +1,7 @@
 # 2IMV15 
 Simulation in computer graphics. This code should be reasonably close to the C++ skeleton provided by the lecturer. If in doubt please check the C++ skeleton.
 
-## Manually installed packages (Anaconda)
+## Used packages (also included in requirements.txt)
 * pyopengl 3.1.1a1
 * freeglut 3.0.0
 * numpy 1.13.3
